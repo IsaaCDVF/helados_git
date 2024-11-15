@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+body{
+
+    background-color: #91C1F8;
+    font-family: "Oswald", serif ;
+}
+
+ul{
+    list-style: none;
+}
+
+input, label{
+ display: block;
+}
+input{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+}
+a{
+     color: black;
+text-decoration: none;
+font-style: italic;
+}
+#data-form{
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+#flavor-form{
+border-radius: 5px;
+    background-color: #8E9FF5;
+}
+
